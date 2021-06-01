@@ -2,6 +2,27 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Abour React
+
+Started in 2013 by Facebook. (Used to build Single page applications).
+
+Used "npm i -g create-react-app" ==> now we can generate new applications.
+
+React is a library whereas Angular is a JS Framework.
+
+## Concepts in this app
+
+1. Class component (Old)
+2. Function Component (Latest)
+3. Handling Data : 
+    1. State (Mutable) -- this.state
+    2. Properties (Immutable) -- this.props
+4. Form handling :
+    1. Uncontrolled forms 
+    2. Controlled forms(not in the app)
+5. Routing in react
+4. Life cycle hooks(old and new)
+
 ## Available Scripts
 
 In the project directory, you can run:
